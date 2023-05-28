@@ -1,0 +1,22 @@
+{
+  "wethercondition": [
+    {
+      "condition": "All"
+    },
+    {
+      "condition": "Sunny"
+    },
+    {
+      "condition": "Rainy"
+    },
+    {
+      "condition": "Cloudy"
+    },
+    {
+      "condition": "Snowy"
+    },
+    {
+      "condition": "Partly Cloudy"
+    }
+  ]
+}
